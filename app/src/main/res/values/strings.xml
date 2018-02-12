@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Wipro</string>
+    <string name="no_internet">Please check your network connection</string>
+    <string name="dialog_ok_button">OK</string>
+</resources>
